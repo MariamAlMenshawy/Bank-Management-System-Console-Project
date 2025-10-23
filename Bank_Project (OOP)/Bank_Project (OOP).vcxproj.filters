@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\BankAccount">
+      <UniqueIdentifier>{41eaec74-e600-44af-a748-4312e4e6496f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\loginScreen">
+      <UniqueIdentifier>{2bdb2641-16c4-40dc-9259-236766dfcd7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Users">
+      <UniqueIdentifier>{0aae5bb7-d3fd-4d42-9826-3b58a1f625e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MainMenu">
+      <UniqueIdentifier>{94a733a1-fe17-46b6-a1cb-4e24db74b13b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Client">
+      <UniqueIdentifier>{bd53ed5d-fb5c-425f-b290-8ab83a87cdb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Transactions">
+      <UniqueIdentifier>{4a236dc1-fb49-4d48-a750-0bc18aae5b09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Time">
+      <UniqueIdentifier>{2ffba201-d698-4732-8136-14b9a8b84f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SavingsAccount">
+      <UniqueIdentifier>{92678a9f-b786-4d3c-8704-4251dd30c2eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BankAccount.h">
+      <Filter>Source Files\BankAccount</Filter>
+    </ClInclude>
+    <ClInclude Include="loginScreen.h">
+      <Filter>Source Files\loginScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Users.h">
+      <Filter>Source Files\Users</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Source Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Source Files\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="Transactions.h">
+      <Filter>Source Files\Transactions</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Source Files\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="SavingsAccount.h">
+      <Filter>Source Files\SavingsAccount</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BankAccount.cpp">
+      <Filter>Source Files\BankAccount</Filter>
+    </ClCompile>
+    <ClCompile Include="Users.cpp">
+      <Filter>Source Files\Users</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Source Files\Client</Filter>
+    </ClCompile>
+    <ClCompile Include="loginScreen.cpp">
+      <Filter>Source Files\loginScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Transactions.cpp">
+      <Filter>Source Files\Transactions</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="SavingsAccount.cpp">
+      <Filter>Source Files\SavingsAccount</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Clients.txt">
+      <Filter>Source Files\Client</Filter>
+    </Text>
+    <Text Include="Users.txt">
+      <Filter>Source Files\Users</Filter>
+    </Text>
+    <Text Include="Transactions.txt">
+      <Filter>Source Files\Transactions</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
