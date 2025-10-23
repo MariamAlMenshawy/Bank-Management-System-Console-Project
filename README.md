@@ -36,7 +36,7 @@ If incorrect credentials are entered three times, the system locks to ensure sec
    - Transactions history: View transaction history for an account.
 
 - Manage Users
-   – Show user list: Display all users and their information.
+-  – Show user list: Display all users and their information.
    - Add new user: Create a new user record (name, email, username,..etc).
    - Delete user: Remove user from the system.
    - Update user info: Edit an existing user’s details.
