@@ -6,12 +6,14 @@ It simulates core banking operations, such as managing clients, transactions, an
 Users must log in using a valid username and password. After successful authentication, a Main Menu is displayed, giving access to various banking features.
 If incorrect credentials are entered three times, the system locks to ensure security.
 
+
 ## features
 
 ### Login System
 - Users must enter a valid username and password to access the system.
 - After three failed login attempts, the program locks for security.
 - The Main Menu is then displayed.
+
 
 ### Main Menu Options
 
@@ -43,9 +45,11 @@ If incorrect credentials are entered three times, the system locks to ensure sec
 - Exit Program
    - Safely close the application.
 
+
 ## How to Run
 - Open the project in visual studio or any C++ IDE.
 - Build and run the program.
+
 
 ## Created By
 [Maryam Al Menshawy](https://github.com/MariamAlMenshawy)
