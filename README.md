@@ -16,7 +16,7 @@ If incorrect credentials are entered three times, the system locks to ensure sec
 ### Main Menu Options
 
 - Manage Clients
-   – Show client list: Display all clients and their information.
+   - Show client list: Display all clients and their information.
    - View client accounts: Display all client accounts.
    - Add New client: Create a new client record (name, account number, balance, etc.).
    - Create new account: Create new account for spicific client.
@@ -41,7 +41,7 @@ If incorrect credentials are entered three times, the system locks to ensure sec
    - Find user: Search for user by user name and you can delete user or update user info.
  
 - Exit Program
-    Safely close the application.
+   - Safely close the application.
 
 ## How to Run
 - Open the project in visual studio or any C++ IDE.
